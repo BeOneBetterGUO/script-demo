@@ -2,8 +2,8 @@
 // @name         Hello world
 // @namespace    https://grantg.com
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  grant g's first stript
+// @author       grant g
 // @match        *://*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=greasyfork.org
 // @license      AGPL-3.0
